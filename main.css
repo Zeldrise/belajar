@@ -1,0 +1,148 @@
+body {
+  background-color: #212529;
+}
+.gambar1 {
+  position: relative;
+  top: 10px;
+  left: 13%;
+  border-radius: 20px;
+  height: 420px;
+  width: 20%;
+  background-image: url(https://i.pinimg.com/564x/fa/f3/ec/faf3ece40aad1f6e6035f33963670e42.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.gambar2 {
+  position: relative;
+  bottom: 410px;
+  left: 35%;
+  border-radius: 20px;
+  height: 200px;
+  width: 30%;
+  background-image: url(https://i.pinimg.com/564x/1a/0b/9a/1a0b9aff7c2385f94cb5bc86acd6705e.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.gambar3 {
+  position: relative;
+  bottom: 390px;
+  left: 35%;
+  border-radius: 20px;
+  height: 200px;
+  width: 30%;
+  background-image: url(https://i.pinimg.com/564x/86/75/67/867567c827edc7809d32eb2e509ca350.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.gambar4 {
+  position: relative;
+  bottom: 810px;
+  left: 67%;
+  border-radius: 20px;
+  height: 420px;
+  width: 20%;
+  background-image: url(https://i.pinimg.com/564x/bf/01/9a/bf019a451a069efc4b72c1db811c5f45.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.t1 {
+  position: relative;
+  left: 13%;
+  bottom: 750px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  transition: 0.3s;
+}
+.t1:hover {
+  color: red;
+}
+.t2 {
+  position: relative;
+  left: 14%;
+  bottom: 750px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  opacity: 0.8;
+  transition: 0.3s;
+}
+.t2:hover {
+  color: red;
+}
+.t3 {
+  position: relative;
+  left: 15%;
+  bottom: 750px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  opacity: 0.8;
+  transition: 0.3s;
+}
+.t3:hover {
+  color: red;
+}
+.P1 {
+  position: relative;
+  bottom: 700px;
+}
+.P2 {
+  position: relative;
+  bottom: 680px;
+}
+.jud {
+  position: relative;
+  bottom: 600px;
+  color: white;
+  font-weight: bold;
+  font-size: large;
+  text-align: center;
+}
+.y1 {
+  position: relative;
+  bottom: 600px;
+}
+.g1 {
+  position: relative;
+  bottom: 580px;
+}
+.d1 {
+  margin-right: 270px;
+  display: inline;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+.d2 {
+  margin-right: 200px;
+  display: inline;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+.d3 {
+  margin-right: 230px;
+  display: inline;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+.d4 {
+  display: inline;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+.u1 {
+  position: relative;
+  bottom: 300px;
+}
+.bg1 {
+  position: relative;
+  bottom: 600px;
+  width: 100%;
+}
+.bg2 {
+  width: 100%;
+}
